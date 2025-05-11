@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+        "about-me": {
+            "command": "python3",
+            "args": [
+                "/Users/ankitkumar/Downloads/hands-on-mcp-servers/mcp/server.py"
+            ]
+        }
+    }
+}
